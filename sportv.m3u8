@@ -1,3 +1,6 @@
 #EXTM3U
-#EXTINF:-1, BBB Ao Vivo
-https://shiny-fog-8659.fhabeto2035.workers.dev/?url=https://tvmaxplay.xyz/OB1rcavXsprtviOqkVCJTBJahe/tracks-v1a1/mono.ts.m3u8
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:1234
+#EXTINF:10.0,
+https://shiny-fog-8659.fhabeto2035.workers.dev/?url=https://tvmaxplay.xyz/.../segmento1.ts
