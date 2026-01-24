@@ -47,9 +47,13 @@ https://tinyurl.com/2b2zfypr
 https://tinyurl.com/258gjuyk
 #EXTINF:-1 group-title="ESPORTES", Espn 6
 https://tinyurl.com/27hvfl9v
+#EXTINF:-1 group-title="VARIEDADES", A&E HD
+https://d1muf25xa01so8hp24.s27-usa-cloudfront-net.online/token/82d644bf6d266a9b0e0f497a97fb361e/ae.m3u8
+#EXTINF:-1 group-title="VARIEDADES", AMC HD
+https://tinyurl.com/2d5xx3gu
+#EXTINF:-1 group-title="VARIEDADES", AXN HD
+https://tinyurl.com/258bkro4
 #EXTINF:-1 group-title="CANAIS ABERTOS", PLAY TV
 https://isaocorp.cloudecast.com/playtv/index.m3u8
 #EXTINF:-1 group-title="VARIEDADES", A&E BRASIL
 https://origin-07.nxplay.com.br/AeE_BRASIL/index.m3u8
-#EXTINF:-1 group-title="VARIEDADES", A&E HD
-https://d1muf25xa01so8hp24.s27-usa-cloudfront-net.online/token/82d644bf6d266a9b0e0f497a97fb361e/ae.m3u8
