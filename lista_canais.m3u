@@ -1,49 +1,53 @@
 #EXTM3U
-#EXTINF:-1, BBB
+#EXTINF:-1 group-title="VARIEDADES", BBB
 https://tinyurl.com/27u74aw9
-#EXTINF:-1, Sportv
+#EXTINF:-1 group-title="ESPORTES", Sportv
 https://tinyurl.com/2cgcbo3l
-#EXTINF:-1, Globo SP
+#EXTINF:-1 group-title="CANAIS ABERTOS", Globo SP
 https://tinyurl.com/2cwhof9m
-#EXTINF:-1, Band SP
+#EXTINF:-1 group-title="CANAIS ABERTOS", Band SP
 https://tinyurl.com/23srrpe7
-#EXTINF:-1, SBT SP
+#EXTINF:-1 group-title="CANAIS ABERTOS", SBT SP
 https://tinyurl.com/26pf7z6m
-#EXTINF:-1, Record SP
+#EXTINF:-1 group-title="CANAIS ABERTOS", Record SP
 https://tinyurl.com/2bjtfkhk
-#EXTINF:-1, Record RJ
+#EXTINF:-1 group-title="CANAIS ABERTOS", Record RJ
 https://tinyurl.com/2b65pd43
-#EXTINF:-1, Record MG
+#EXTINF:-1 group-title="CANAIS ABERTOS", Record MG
 https://tinyurl.com/2abobva2
-#EXTINF:-1, Globo MG
+#EXTINF:-1 group-title="CANAIS ABERTOS", Globo MG
 https://tinyurl.com/24xhkpzf
-#EXTINF:-1, Globo RJ
+#EXTINF:-1 group-title="CANAIS ABERTOS", Globo RJ
 https://tinyurl.com/22pch3au
-#EXTINF:-1, Premiere Clubes
+#EXTINF:-1 group-title="ESPORTES", Premiere Clubes
 https://tinyurl.com/2a67ehqj
-#EXTINF:-1, Premiere 2
+#EXTINF:-1 group-title="ESPORTES", Premiere 2
 https://tinyurl.com/2yrbx8kx
-#EXTINF:-1, Premiere 3
+#EXTINF:-1 group-title="ESPORTES", Premiere 3
 https://tinyurl.com/2yworzxt
-#EXTINF:-1, Premiere 4
+#EXTINF:-1 group-title="ESPORTES", Premiere 4
 https://tinyurl.com/2akdefxr
-#EXTINF:-1, Premiere 5
+#EXTINF:-1 group-title="ESPORTES", Premiere 5
 https://tinyurl.com/26f7d6um
-#EXTINF:-1, Premiere 6
+#EXTINF:-1 group-title="ESPORTES", Premiere 6
 https://tinyurl.com/2a6mo7ka
-#EXTINF:-1, Premiere 7
+#EXTINF:-1 group-title="ESPORTES", Premiere 7
 https://tinyurl.com/22gtnjy9
-#EXTINF:-1, Premiere 8
+#EXTINF:-1 group-title="ESPORTES", Premiere 8
 https://tinyurl.com/26m2or4e
-#EXTINF:-1, Espn
+#EXTINF:-1 group-title="ESPORTES", Espn
 https://tinyurl.com/26gat5xy
-#EXTINF:-1, Espn 2
+#EXTINF:-1 group-title="ESPORTES", Espn 2
 https://tinyurl.com/2alrorca
-#EXTINF:-1, Espn 3
+#EXTINF:-1 group-title="ESPORTES", Espn 3
 https://tinyurl.com/2bg9596b
-#EXTINF:-1, Espn 4
+#EXTINF:-1 group-title="ESPORTES", Espn 4
 https://tinyurl.com/2b2zfypr
-#EXTINF:-1, Espn 5
+#EXTINF:-1 group-title="ESPORTES", Espn 5
 https://tinyurl.com/258gjuyk
-#EXTINF:-1, Espn 6
+#EXTINF:-1 group-title="ESPORTES", Espn 6
 https://tinyurl.com/27hvfl9v
+#EXTINF:-1 group-title="CANAIS ABERTOS", PLAY TV
+https://isaocorp.cloudecast.com/playtv/index.m3u8
+#EXTINF:-1 group-title="VARIEDADES", A&E BRASIL
+https://origin-07.nxplay.com.br/AeE_BRASIL/index.m3u8
